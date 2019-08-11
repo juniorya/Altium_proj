@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=+5 Pin=C1-2
+Removed Member From Class: ClassName=Sheet1 Member=X?
+Change Component Designator: OldDesignator=C11 NewDesignator=C1
+Added Pin To Net: NetName=+3.3V Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 04023C104JAT2A

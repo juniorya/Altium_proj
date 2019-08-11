@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+5 Pin=C1-2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 04023C104JAT2A
